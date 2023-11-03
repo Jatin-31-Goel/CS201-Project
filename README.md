@@ -23,10 +23,10 @@ https://github.com/Jatin-31-Goel/CS201-Project.git
 ```
 Then type
 ```
-cd CS201_Final_Project
+cd CS201-Project
 ```
 ### First you will need to decide if you want to simulate 2D Point Quad Tree or Image Compression Quad Tree:
-To simulate 2D Points quad tree, type ``` gcc quad_trees.c -o quad_tree_point ``` and then type ``` ./quad_tree_point ``` in your terminal. 
+To simulate 2D Points quad tree, type ``` gcc Point_QuadTree.c -o quad_tree_point ``` and then type ``` ./quad_tree_point ``` in your terminal. 
 To simulate image compression, refer bellow.
 
 ---
@@ -34,7 +34,7 @@ To simulate image compression, refer bellow.
 ### Steps to run Image Compression
 It is expected that your system has OpenCV library installed. If not steps for the same are given below.
 
-***Steps to install OpenCV***
+***Steps to install OpenCV in python***
 
 Build and install OpenCV in your machine if you already haven't. Here are guides to do the same:
 * [For Ubuntu](http://techawarey.com/programming/install-opencv-c-c-in-ubuntu-18-04-lts-step-by-step-guide/) 
