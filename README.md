@@ -28,7 +28,7 @@ cd CS201-Project
 ### First you will need to decide if you want to simulate 2D Point Quad Tree or Image Compression Quad Tree:
 To simulate 2D Points quad tree, type ``` gcc Point_QuadTree.c -o point_quadtree ``` and then type ``` ./point_quadtree ``` in your terminal.
 
-To simulate image compression, refer bellow.
+To simulate image compression, refer below.
 
 ---
 
@@ -60,6 +60,6 @@ Ms. Manpreet Kaur
 | Name            | Entry Number |
 | --------------- | ------------ |
 | Jatin Goel | 2022MCB1266  |
-| Pranav Menon | 2021MCB1329  |
+| Pranav Menon | 2022MCB1329  |
 | Piyush Kumar | 2022MCB1275  |
 
