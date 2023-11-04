@@ -38,9 +38,12 @@ It is expected that your system has OpenCV library installed. If not steps for t
 ***Steps to install OpenCV in python***
 
 Build and install OpenCV in your machine if you already haven't. Here are guides to do the same:
-*[For Windows](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-windows/)
-*[For Linux](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-linux/)
-*[For MacOS](https://www.geeksforgeeks.org/how-to-install-opencv-4-on-macos/)
+* [For Windows](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-windows/)
+  
+* [For Linux](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-linux/)
+  
+* [For MacOS](https://www.geeksforgeeks.org/how-to-install-opencv-4-on-macos/)
+  
 
 After installing OpenCV, write a code in text editor of file handling in python to read the pixels of the image and store them in a file.
 Now, the stored pixels will be read by the code regionquadtree.c which will store the reduced pixels in a new file.
