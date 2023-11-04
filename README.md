@@ -60,6 +60,6 @@ Ms. Manpreet Kaur
 | Name            | Entry Number |
 | --------------- | ------------ |
 | Jatin Goel | 2022MCB1266  |
-| Pranav Menon | 2022MCB1329  |
+| Pranav Menon | 2022CSB1329  |
 | Piyush Kumar | 2022MCB1275  |
 
