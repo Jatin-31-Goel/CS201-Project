@@ -64,15 +64,15 @@ If the actual image name is not ``` to.jpeg ``` , then, you can change the name 
 
 Now, to read the stored pixels  type 
 ``` 
-gcc Image_Compression.c -o Image_Compression
+gcc Image_Compression.c -o image_compression
 ```
 This will generate an output file ***test.exe***. To run this file type in your terminal:
 ``` 
-./Image_Compression
+./image_compression
 ```
 or 
 ``` 
-./Image_Compression.exe
+./image_compression.exe
 ```
 It will store the new pixels in a new file as ``` pix_1.txt```.
 
