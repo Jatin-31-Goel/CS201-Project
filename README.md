@@ -45,14 +45,13 @@ Build and install OpenCV in your machine if you already haven't. Here are guides
 * [For MacOS](https://www.geeksforgeeks.org/how-to-install-opencv-4-on-macos/)
   
 
-After installing OpenCV, write a code in text editor of file handling in python to read the pixels of the image and store them in a file.
-Now, the stored pixels will be read by the ``` regionquadtree.c ``` which will store the reduced pixels in a new file.
+After installing OpenCV, to simulate image compression, type ``` python Reading_Actual_Image.py ``` in your terminal. It will show the actual image which is being saved as ``` to.jpeg ``` and read the image to store pixels in a file as ``` pix.txt ```.
 
-To simulate image compression ,type ``` gcc regionquadtree.c -o regionquadtree ``` .
 
-This will generate an output file ***test.exe***. To run this file type ``` ./regionquadtree ``` or ``` ./regionquadtree.exe ```in your terminal.
+Now, to read the stored pixels  type ``` gcc regionquadtree.c -o regionquadtree ``` . This will generate an output file ***test.exe***. To run this file type ``` ./regionquadtree ``` or ``` ./regionquadtree.exe ```in your terminal, It will store the new pixels in a new file as ``` pix_1.txt```.
 
-Now, ``` regionquadtree.c ``` has saved the updated pixels in a new file. This can be read again usning File Handling in python which will generate a new compressed image.
+ 
+The updated pixels can now be read usning File Handling in python . Type ``` python Creating_Compressed_Image.py ``` in your terminal , this will generate a new compressed image.
 
 ---
 **Mentor**
