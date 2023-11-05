@@ -19,7 +19,7 @@ We have implemented image compression using region quadtree.
 
 To download our program, please copy and paste this line to your terminal:
 ```
-https://github.com/Jatin-31-Goel/CS201-Project.git
+git clone https://github.com/Jatin-31-Goel/CS201-Project.git
 ```
 Then type
 ```
