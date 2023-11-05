@@ -30,11 +30,11 @@ To simulate 2D Points quad tree, type
 ``` 
 gcc Point_QuadTree.c -o point_quadtree
 ```
-and then type 
+and then type in your terminal :
 ``` 
 ./point_quadtree
 ```
-in your terminal.
+
 
 To simulate image compression, refer below.
 
