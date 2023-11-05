@@ -14,7 +14,7 @@ struct point{
 
 // Declaration of QuadTree Node
 struct quad_tree_node{
-    // One point will be associated with every quadtree node and each node will further have four children/nodes 
+    // One point will be associated with every quadtree node and each node will further have four children/nodes
     struct point p;
     struct quad_tree_node * n_e;
     struct quad_tree_node * n_w;
